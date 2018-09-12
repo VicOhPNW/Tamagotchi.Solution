@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Tamagotchis.Solution/Tamagotchis/bin/Debug/netcoreapp1.0.4/Tamagotchis.deps.json
+/Users/Guest/Desktop/Tamagotchis.Solution/Tamagotchis/bin/Debug/netcoreapp1.0.4/Tamagotchis.runtimeconfig.json
+/Users/Guest/Desktop/Tamagotchis.Solution/Tamagotchis/bin/Debug/netcoreapp1.0.4/Tamagotchis.runtimeconfig.dev.json
+/Users/Guest/Desktop/Tamagotchis.Solution/Tamagotchis/obj/Debug/netcoreapp1.0.4/Tamagotchis.AssemblyInfo.cs
+/Users/Guest/Desktop/Tamagotchis.Solution/Tamagotchis/bin/Debug/netcoreapp1.0.4/Tamagotchis.dll
+/Users/Guest/Desktop/Tamagotchis.Solution/Tamagotchis/bin/Debug/netcoreapp1.0.4/Tamagotchis.pdb
+/Users/Guest/Desktop/Tamagotchis.Solution/Tamagotchis/obj/Debug/netcoreapp1.0.4/Tamagotchis.dll
+/Users/Guest/Desktop/Tamagotchis.Solution/Tamagotchis/obj/Debug/netcoreapp1.0.4/Tamagotchis.pdb
